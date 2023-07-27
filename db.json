@@ -1,0 +1,56 @@
+{
+  "lists": [
+    {
+      "id": 1,
+      "title": "Mercado"
+    },
+    {
+      "id": 2,
+      "title": "Trabalho"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "listId": 1,
+      "title": "Comprar arroz",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "listId": 2,
+      "title": "Reunião às 10:00",
+      "completed": true
+    },
+    {
+      "title": "Contar",
+      "listId": 2,
+      "completed": false,
+      "id": 5
+    },
+    {
+      "title": "dede",
+      "listId": 2,
+      "completed": false,
+      "id": 6
+    },
+    {
+      "title": "Comprar caldo",
+      "listId": 1,
+      "completed": true,
+      "id": 7
+    },
+    {
+      "title": "Comprar",
+      "listId": 1,
+      "completed": false,
+      "id": 8
+    },
+    {
+      "title": "Vender",
+      "listId": 1,
+      "completed": false,
+      "id": 9
+    }
+  ]
+}
